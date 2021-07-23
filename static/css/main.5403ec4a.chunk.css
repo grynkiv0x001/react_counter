@@ -1,0 +1,2 @@
+.Counter__title{text-transform:uppercase;text-align:center}.Counter__button{background-color:transparent;border:2px solid #000;color:#000;cursor:pointer;font-family:monospace;font-size:20px;margin:10px;padding:10px 20px;text-transform:uppercase}.Counter__button:hover{border-style:dashed}.Counter__button:focus{background-color:#eee;outline:none}html{font-family:monospace}body{overflow:hidden}.App{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh}
+/*# sourceMappingURL=main.5403ec4a.chunk.css.map */
